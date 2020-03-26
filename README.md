@@ -26,6 +26,8 @@ Optionally use **gulp watch** to browser sync. use the **gulp** command to apply
 History Log
 ===========
 - 2020-03-26
+  - update "babel and bundle" > package.json to allow babel async
+- 2020-03-26
   - add browser-sync-client.js script
 - 2020-03-25
   - initial commit
